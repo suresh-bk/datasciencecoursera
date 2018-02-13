@@ -1,12 +1,13 @@
 ---
 output:
-  word_document: default
+  md_document:  default
   html_document: default
+  word_document: default
 ---
 Reproducible Research - Week 2 Assignment
-=========================================
+========================================
 
-## 1. Loading and preprocessing the data
+## 1. Loading and preprocessing of data
 
 ```{r Load Libraries, echo=FALSE}
 	require(data.table, quietly=TRUE,warn.conflicts = FALSE)

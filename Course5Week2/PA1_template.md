@@ -1,8 +1,8 @@
 Reproducible Research - Week 2 Assignment
 =========================================
 
-1. Loading and preprocessing the data
--------------------------------------
+1. Loading and preprocessing of data
+------------------------------------
 
         fileurl <- "https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip"
         zipfile <- "./course5week2/data.zip" 
