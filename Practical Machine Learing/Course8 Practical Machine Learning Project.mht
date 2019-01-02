@@ -1,0 +1,4773 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D4A2E2.16028700"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
+
+------=_NextPart_01D4A2E2.16028700
+Content-Location: file:///C:/EB26A0D4/Course8PracticalMachineLearningProject.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link rel=3DFile-List
+href=3D"Course8PracticalMachineLearningProject_files/filelist.xml">
+<title>Course 8 Practical Machine Learning Project</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Suresh B K</o:Author>
+  <o:LastAuthor>Sushma K</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>57</o:TotalTime>
+  <o:LastPrinted>2019-01-02T15:57:00Z</o:LastPrinted>
+  <o:Created>2019-01-02T15:58:00Z</o:Created>
+  <o:LastSaved>2019-01-02T15:58:00Z</o:LastSaved>
+  <o:Pages>8</o:Pages>
+  <o:Words>1991</o:Words>
+  <o:Characters>11354</o:Characters>
+  <o:Lines>94</o:Lines>
+  <o:Paragraphs>26</o:Paragraphs>
+  <o:CharactersWithSpaces>13319</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData
+href=3D"Course8PracticalMachineLearningProject_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping
+href=3D"Course8PracticalMachineLearningProject_files/colorschememapping.xml=
+">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>18 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>18 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEve=
+ry>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef m:val=3D"off"/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapRight/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"subSup"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"375">
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footer"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of figures"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope return"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"line number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"page number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of authorities"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"macro"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toa heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Closing"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Signature"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Default Paragraph Font"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Message Header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Salutation"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Date"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Block Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"FollowedHyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Document Map"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Plain Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"E-mail Signature"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal (Web)"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Acronym"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Cite"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Code"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Definition"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Keyboard"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Preformatted"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Sample"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Typewriter"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Variable"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation subject"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Balloon Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Placeholder =
+Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Mention"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Smart Hyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Hashtag"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Unresolved Mention"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536869121 64767 1 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#345A8A;
+	mso-themecolor:accent1;
+	mso-themeshade:181;
+	mso-font-kerning:0pt;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+h2
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+h3
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:14.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+h4
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+h5
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-weight:normal;
+	font-style:italic;}
+h6
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-weight:normal;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:12.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.MsoToc3, li.MsoToc3, div.MsoToc3
+	{mso-style-update:auto;
+	mso-style-priority:39;
+	mso-style-next:Normal;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:24.0pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.MsoFootnoteText, li.MsoFootnoteText, div.MsoFootnoteText
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-unhide:no;
+	mso-style-link:"Caption Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.MsoFootnoteReference
+	{mso-style-unhide:no;
+	mso-style-parent:"Caption Char";
+	vertical-align:super;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	text-align:center;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:18.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#345A8A;
+	mso-themecolor:accent1;
+	mso-themeshade:181;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:9.0pt;
+	margin-right:0cm;
+	margin-bottom:9.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:Title;
+	mso-style-next:"Body Text";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	text-align:center;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:15.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#345A8A;
+	mso-themecolor:accent1;
+	mso-themeshade:181;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-weight:bold;}
+p.MsoDate, li.MsoDate, div.MsoDate
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-style-next:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	text-align:center;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.MsoBlockText, li.MsoBlockText, div.MsoBlockText
+	{mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-parent:"Body Text";
+	mso-style-next:"Body Text";
+	margin-top:5.0pt;
+	margin-right:0cm;
+	margin-bottom:5.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	mso-bidi-font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-parent:"Caption Char";
+	color:#4F81BD;
+	mso-themecolor:accent1;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoBibliography, li.MsoBibliography, div.MsoBibliography
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{mso-style-priority:39;
+	mso-style-qformat:yes;
+	mso-style-parent:"Heading 1";
+	mso-style-next:"Body Text";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#365F91;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.FirstParagraph, li.FirstParagraph, div.FirstParagraph
+	{mso-style-name:"First Paragraph";
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"Body Text";
+	mso-style-next:"Body Text";
+	margin-top:9.0pt;
+	margin-right:0cm;
+	margin-bottom:9.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.Compact, li.Compact, div.Compact
+	{mso-style-name:Compact;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"Body Text";
+	margin-top:1.8pt;
+	margin-right:0cm;
+	margin-bottom:1.8pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.Author, li.Author, div.Author
+	{mso-style-name:Author;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-style-next:"Body Text";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	text-align:center;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.Abstract, li.Abstract, div.Abstract
+	{mso-style-name:Abstract;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-next:"Body Text";
+	margin-top:15.0pt;
+	margin-right:0cm;
+	margin-bottom:15.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:10.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.DefinitionTerm, li.DefinitionTerm, div.DefinitionTerm
+	{mso-style-name:"Definition Term";
+	mso-style-unhide:no;
+	mso-style-next:Definition;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.Definition, li.Definition, div.Definition
+	{mso-style-name:Definition;
+	mso-style-unhide:no;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.TableCaption, li.TableCaption, div.TableCaption
+	{mso-style-name:"Table Caption";
+	mso-style-unhide:no;
+	mso-style-parent:Caption;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.ImageCaption, li.ImageCaption, div.ImageCaption
+	{mso-style-name:"Image Caption";
+	mso-style-unhide:no;
+	mso-style-parent:Caption;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+p.Figure, li.Figure, div.Figure
+	{mso-style-name:Figure;
+	mso-style-unhide:no;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p.FigurewithCaption, li.FigurewithCaption, div.FigurewithCaption
+	{mso-style-name:"Figure with Caption";
+	mso-style-unhide:no;
+	mso-style-parent:Figure;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+span.CaptionChar
+	{mso-style-name:"Caption Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Caption;}
+span.VerbatimChar
+	{mso-style-name:"Verbatim Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"Caption Char";
+	mso-style-link:"Source Code";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;}
+p.SourceCode, li.SourceCode, div.SourceCode
+	{mso-style-name:"Source Code";
+	mso-style-unhide:no;
+	mso-style-link:"Verbatim Char";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	background:#F8F8F8;
+	word-break:break-all;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+span.KeywordTok
+	{mso-style-name:KeywordTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#204A87;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.DataTypeTok
+	{mso-style-name:DataTypeTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#204A87;
+	background:#F8F8F8;}
+span.DecValTok
+	{mso-style-name:DecValTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#0000CF;
+	background:#F8F8F8;}
+span.BaseNTok
+	{mso-style-name:BaseNTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#0000CF;
+	background:#F8F8F8;}
+span.FloatTok
+	{mso-style-name:FloatTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#0000CF;
+	background:#F8F8F8;}
+span.ConstantTok
+	{mso-style-name:ConstantTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:black;
+	background:#F8F8F8;}
+span.CharTok
+	{mso-style-name:CharTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#4E9A06;
+	background:#F8F8F8;}
+span.SpecialCharTok
+	{mso-style-name:SpecialCharTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:black;
+	background:#F8F8F8;}
+span.StringTok
+	{mso-style-name:StringTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#4E9A06;
+	background:#F8F8F8;}
+span.VerbatimStringTok
+	{mso-style-name:VerbatimStringTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#4E9A06;
+	background:#F8F8F8;}
+span.SpecialStringTok
+	{mso-style-name:SpecialStringTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#4E9A06;
+	background:#F8F8F8;}
+span.ImportTok
+	{mso-style-name:ImportTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	background:#F8F8F8;}
+span.CommentTok
+	{mso-style-name:CommentTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.DocumentationTok
+	{mso-style-name:DocumentationTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.AnnotationTok
+	{mso-style-name:AnnotationTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.CommentVarTok
+	{mso-style-name:CommentVarTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.OtherTok
+	{mso-style-name:OtherTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;}
+span.FunctionTok
+	{mso-style-name:FunctionTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:black;
+	background:#F8F8F8;}
+span.VariableTok
+	{mso-style-name:VariableTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:black;
+	background:#F8F8F8;}
+span.ControlFlowTok
+	{mso-style-name:ControlFlowTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#204A87;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.OperatorTok
+	{mso-style-name:OperatorTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#CE5C00;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.BuiltInTok
+	{mso-style-name:BuiltInTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	background:#F8F8F8;}
+span.ExtensionTok
+	{mso-style-name:ExtensionTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	background:#F8F8F8;}
+span.PreprocessorTok
+	{mso-style-name:PreprocessorTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.AttributeTok
+	{mso-style-name:AttributeTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#C4A000;
+	background:#F8F8F8;}
+span.RegionMarkerTok
+	{mso-style-name:RegionMarkerTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	background:#F8F8F8;}
+span.InformationTok
+	{mso-style-name:InformationTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.WarningTok
+	{mso-style-name:WarningTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#8F5902;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;
+	font-style:italic;
+	mso-bidi-font-style:normal;}
+span.AlertTok
+	{mso-style-name:AlertTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#EF2929;
+	background:#F8F8F8;}
+span.ErrorTok
+	{mso-style-name:ErrorTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	color:#A40000;
+	background:#F8F8F8;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+span.NormalTok
+	{mso-style-name:NormalTok;
+	mso-style-unhide:no;
+	mso-style-parent:"Verbatim Char";
+	mso-ansi-font-size:11.0pt;
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	background:#F8F8F8;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:12.0pt;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Cambria;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("Course8PracticalMachineLearningProject_files/=
+header.htm") fs;
+	mso-footnote-continuation-separator:url("Course8PracticalMachineLearningPr=
+oject_files/header.htm") fcs;
+	mso-endnote-separator:url("Course8PracticalMachineLearningProject_files/he=
+ader.htm") es;
+	mso-endnote-continuation-separator:url("Course8PracticalMachineLearningPro=
+ject_files/header.htm") ecs;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:-1454432413;
+	mso-list-template-ids:-117037808;}
+@list l0:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l0:level2
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	margin-left:60.0pt;
+	text-indent:-24.0pt;}
+@list l0:level3
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	margin-left:96.0pt;
+	text-indent:-24.0pt;}
+@list l0:level4
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	margin-left:132.0pt;
+	text-indent:-24.0pt;}
+@list l0:level5
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-24.0pt;}
+@list l0:level6
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	margin-left:204.0pt;
+	text-indent:-24.0pt;}
+@list l0:level7
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	margin-left:240.0pt;
+	text-indent:-24.0pt;}
+@list l0:level8
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l0:level9
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l1
+	{mso-list-id:-511743558;
+	mso-list-template-ids:930877712;}
+@list l1:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:0cm;
+	mso-level-number-position:left;
+	margin-left:24.0pt;
+	text-indent:-24.0pt;}
+@list l1:level2
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	margin-left:60.0pt;
+	text-indent:-24.0pt;}
+@list l1:level3
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	margin-left:96.0pt;
+	text-indent:-24.0pt;}
+@list l1:level4
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	margin-left:132.0pt;
+	text-indent:-24.0pt;}
+@list l1:level5
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	margin-left:168.0pt;
+	text-indent:-24.0pt;}
+@list l1:level6
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	margin-left:204.0pt;
+	text-indent:-24.0pt;}
+@list l1:level7
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:" ";
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	margin-left:240.0pt;
+	text-indent:-24.0pt;}
+@list l1:level8
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+@list l1:level9
+	{mso-level-start-at:0;
+	mso-level-text:"";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:0cm;
+	text-indent:0cm;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria",serif;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-IN link=3D"#4F81BD" vlink=3Dpurple style=3D'tab-interval:36=
+.0pt'>
+
+<div class=3DWordSection1>
+
+<p class=3DMsoTitle><span lang=3DEN-US>Course 8 Practical Machine Learning =
+Project</span></p>
+
+<p class=3DAuthor><span lang=3DEN-US>Suresh B K</span></p>
+
+<p class=3DMsoDate><span lang=3DEN-US>2 January 2019</span></p>
+
+<w:Sdt SdtDocPart=3D"t" DocPartType=3D"Table of Contents" DocPartUnique=3D"=
+t"
+ ID=3D"110014287">
+ <p class=3DMsoTocHeading><span lang=3DEN-US>Table of Contents</span><span
+ lang=3DEN-US style=3D'font-size:12.0pt;line-height:107%;mso-ascii-font-fam=
+ily:
+ Cambria;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Cambria;
+ mso-fareast-theme-font:minor-latin;mso-hansi-font-family:Cambria;mso-hansi=
+-theme-font:
+ minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:min=
+or-bidi;
+ mso-color-alt:windowtext'><w:sdtPr></w:sdtPr></span></p>
+ <p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><!--[if suppor=
+tFields]><span
+ lang=3DEN-US><span style=3D'mso-element:field-begin'></span>TOC \o &quot;1=
+-3&quot;
+ \h \z \u<span style=3D'mso-element:field-separator'></span></span><![endif=
+]--><span
+ lang=3DEN-US><span class=3DMsoHyperlink><span style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223463">Background<span style=3D'mso-color-alt:windowtext;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'>.. </=
+span></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223463 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>1</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400360033000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ style=3D'mso-no-proof:yes'><o:p></o:p></span></span></p>
+ <p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223464">Objective of the project<span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'> </sp=
+an></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223464 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>2</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400360034000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223465">Data for the project<span style=3D'mso-color-alt:w=
+indowtext;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'> </sp=
+an></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223465 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>2</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400360035000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223466">Execution<span style=3D'mso-color-alt:windowtext;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'>.. </=
+span></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223466 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>2</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400360036000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223467">Loading the possible essential libraries<span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223467 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>2</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400360037000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223468">Downloading and cleaning data<span style=3D'mso-co=
+lor-alt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 do=
+tted'>. </span></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223468 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>3</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400360038000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc3 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223469">Download and explore the data<span style=3D'mso-co=
+lor-alt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 do=
+tted'>. </span></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223469 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>3</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400360039000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc3 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223470">Clean Data and create sub training and sub test sa=
+mples<span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-tab-count:1 dotted'>. </span></span><!--[if supportFields]><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223470 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>4</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400370030000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc2 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223471">Build and Select Model<span style=3D'mso-color-alt=
+:windowtext;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'> </sp=
+an></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223471 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>5</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400370031000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc3 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223472">Build Model<span style=3D'mso-color-alt:windowtext;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'> </sp=
+an></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223472 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>5</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400370032000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc3 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223473">Select Model<span style=3D'mso-color-alt:windowtex=
+t;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'> </sp=
+an></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223473 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>7</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400370033000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoToc1 style=3D'tab-stops:right dotted 467.5pt'><span
+ class=3DMsoHyperlink><span lang=3DEN-US style=3D'mso-no-proof:yes'><a
+ href=3D"#_Toc534223474">Test Set Prediction<span style=3D'mso-color-alt:wi=
+ndowtext;
+ display:none;mso-hide:screen'><span style=3D'mso-tab-count:1 dotted'>.. </=
+span></span><!--[if supportFields]><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-begin'></span></span><span style=3D'mso-color-a=
+lt:windowtext;
+ display:none;mso-hide:screen'> PAGEREF _Toc534223474 \h </span><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><span
+ style=3D'mso-element:field-separator'></span></span><![endif]--><span
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'>7</span><s=
+pan
+ style=3D'mso-color-alt:windowtext;display:none;mso-hide:screen'><!--[if gt=
+e mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F00540=
+06F0063003500330034003200320033003400370034000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style=3D'mso-color-a=
+lt:
+ windowtext;display:none;mso-hide:screen'><span style=3D'mso-element:field-=
+end'></span></span><![endif]--></a></span></span><span
+ lang=3DEN-US style=3D'mso-no-proof:yes'><o:p></o:p></span></p>
+ <p class=3DMsoNormal><!--[if supportFields]><span lang=3DEN-US><span
+ style=3D'mso-element:field-end'></span></span><![endif]--><span lang=3DEN-=
+US><o:p>&nbsp;</o:p></span></p>
+</w:Sdt>
+
+<h1><a name=3D"_Toc534223463"></a><a name=3Dbackground></a><span style=3D'm=
+so-bookmark:
+_Toc534223463'><span lang=3DEN-US>Background</span></span></h1>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>Using devices such as Jawbone =
+Up, Nike
+FuelBand, and Fitbit it is now possible to collect a large amount of data a=
+bout
+personal activity relatively inexpensively. These type of devices are part =
+of
+the quantified self movement - a group of enthusiasts who take measurements
+about themselves regularly to improve their health, to find patterns in the=
+ir
+behavior, or because they are tech geeks. One thing that people regularly d=
+o is
+quantify how much of a particular activity they do, but they rarely quantify
+how well they do it. In this project, your goal will be to use data from
+accelerometers on the belt, forearm, arm, and dumbell of 6 participants. Th=
+ey
+were asked to perform barbell lifts correctly and incorrectly in 5 different
+ways. More information is available from the website here: <span
+class=3DMsoHyperlink><a href=3D"http://groupware.les.inf.puc-rio.br/har">ht=
+tp://groupware.les.inf.puc-rio.br/har</a></span>
+(see the section on the Weight Lifting Exercise Dataset).</span></p>
+
+<h1><a name=3D"_Toc534223464"></a><a name=3Dobjective-of-the-project></a><s=
+pan
+style=3D'mso-bookmark:_Toc534223464'><span lang=3DEN-US>Objective of the pr=
+oject</span></span></h1>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>The goal of your project is to=
+ predict
+the manner in which they did the exercise. This is the “classe” variable in=
+ the
+training set. You may use any of the other variables to predict with. You
+should create a report describing how you built your model, how you used cr=
+oss
+validation, what you think the expected out of sample error is, and why you
+made the choices you did. You will also use your prediction model to predic=
+t 20
+different test cases.</span></p>
+
+<h1><a name=3D"_Toc534223465"></a><a name=3Ddata-for-the-project></a><span
+style=3D'mso-bookmark:_Toc534223465'><span lang=3DEN-US>Data for the projec=
+t</span></span></h1>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>The training data for this pro=
+ject are
+available here: <span class=3DMsoHyperlink><a
+href=3D"https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.cs=
+v">https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv</a>=
+</span></span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>The test data are available here:=
+ <span
+class=3DMsoHyperlink><a
+href=3D"https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv=
+">https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv</a></=
+span></span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>The data for this project <span
+class=3DGramE>come</span> from this source: <span class=3DMsoHyperlink><a
+href=3D"http://groupware.les.inf.puc-rio.br/har">http://groupware.les.inf.p=
+uc-rio.br/har</a></span>.</span></p>
+
+<h1><a name=3D"_Toc534223466"></a><a name=3Dexecution></a><span style=3D'ms=
+o-bookmark:
+_Toc534223466'><span lang=3DEN-US>Execution</span></span></h1>
+
+<h2><a name=3D"_Toc534223467"></a><a
+name=3Dloading-the-possible-essential-libraries></a><span style=3D'mso-book=
+mark:
+_Toc534223467'><span lang=3DEN-US>Loading the possible essential libraries<=
+/span></span></h2>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>############# Load the required libraries #############</span></span=
+><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(dplyr))</span></span>=
+</p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'dplyr' was built und=
+er R
+version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(lubridate))</span></s=
+pan><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(ggplot2))</span></spa=
+n></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'ggplot2' was built u=
+nder
+R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(Hmisc))</span></span>=
+</p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'Hmisc' was built und=
+er R
+version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'Formula' was built u=
+nder
+R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(caret))</span></span>=
+</p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'caret' was built und=
+er R
+version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(randomForest))</span>=
+</span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'randomForest' was bu=
+ilt
+under R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(LiblineaR))</span></s=
+pan></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'LiblineaR' was built
+under R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(logicFS))</span></spa=
+n></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'LogicReg' was built
+under R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'mcbiopi' was built u=
+nder
+R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(gbm))</span></span></=
+p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'gbm' was built under=
+ R
+version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(grid))</span></span><=
+span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(gridExtra))</span></s=
+pan><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(ggpubr))</span></span=
+><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(rattle))</span></span=
+></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'rattle' was built un=
+der
+R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(rpart))</span></span>=
+<span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(e1071))</span></span>=
+</p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'e1071' was built und=
+er R
+version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>suppressMessages</span></span><span class=3DNormalTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(caTools))</span></spa=
+n></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'caTools' was built u=
+nder
+R version 3.4.4</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>library</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(rpart.plot)</span></s=
+pan></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Warning: package 'rpart.plot' was built
+under R version 3.4.4</span></span></p>
+
+<h2><a name=3D"_Toc534223468"></a><a name=3Ddownloading-and-cleaning-data><=
+/a><span
+style=3D'mso-bookmark:_Toc534223468'><span lang=3DEN-US>Downloading and cle=
+aning
+data</span></span></h2>
+
+<h3><a name=3D"_Toc534223469"></a><a name=3Ddownload-and-explore-the-data><=
+/a><span
+style=3D'mso-bookmark:_Toc534223469'><span lang=3DEN-US>Download and explor=
+e the
+data</span></span></h3>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>The data is downloaded as per =
+the
+below code</span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>fileurl &lt;-</span></span><span class=3DStringTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>
+&quot;https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv&=
+quot;</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>filena=
+me
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'>
+&quot;./course8week4_project/pml_train.csv&quot;</span></span><span lang=3D=
+EN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>filedir
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> &quot;./course8week4_project&quot;</span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DControlFlowTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bid=
+i-font-size:
+12.0pt'>if</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> (</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>!</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>file.exists</span></sp=
+an><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(filedir)){</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>        </span>=
+</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>dir.create</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(filedir)</span></span=
+><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>}</spa=
+n></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DControlFlowTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bid=
+i-font-size:
+12.0pt'>if</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> (</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>!</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span class=3DStringTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>'pml_trai=
+n.csv'</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>%in%</span></span><span class=3DStringTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>list.files</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DDataTypeTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>path=3D</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>filedir))){</span></sp=
+an><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>download.file</span></span><span class=3DNormalTok><span lang=3DEN-=
+US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(fileurl,</span></span=
+><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>file.path</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(filename))</span></sp=
+an><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>}</spa=
+n></span><span
+lang=3DEN-US><br>
+<br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DControlFlowTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bid=
+i-font-size:
+12.0pt'>if</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>!</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span class=3DStringTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>'pml_trai=
+n'</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DOperatorTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>%in%</span></span><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>ls</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>())){</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>    </span>pml_=
+train
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>read.csv<=
+/span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(filename,</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>na.strings =3D</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>c</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;NA&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;#Div/0!&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot; &quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>))</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>}</spa=
+n></span><span
+lang=3DEN-US><br>
+<br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>fileurl
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> &quot;https://d396qusza40orc.cloudfront.=
+net/predmachlearn/pml-testing.csv&quot;</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>filena=
+me
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'>
+&quot;./course8week4_project/pml_test.csv&quot;</span></span><span lang=3DE=
+N-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DControlFlowTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bid=
+i-font-size:
+12.0pt'>if</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> (</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>!</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span class=3DStringTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>'pml_test=
+.csv'</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>%in%</span></span><span class=3DStringTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>list.files</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DDataTypeTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>path=3D</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>filedir))){</span></sp=
+an><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>download.file</span></span><span class=3DNormalTok><span lang=3DEN-=
+US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(fileurl,</span></span=
+><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>file.path</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(filename))</span></sp=
+an><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>}</spa=
+n></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DControlFlowTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bid=
+i-font-size:
+12.0pt'>if</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>!</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span class=3DStringTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>'pml_test=
+'</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DOperatorTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>%in%</span></span><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>ls</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>())){</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>    </span>pml_=
+test
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>read.csv<=
+/span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(filename,</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>na.strings =3D</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>c</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;NA&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;#Div/0!&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot; &quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>))</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>}</spa=
+n></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>dim</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_train)</span></sp=
+an></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## [1] 19622<span style=3D'mso-spacerun:y=
+es'>  
+</span>160</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>dim</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_test)</span></spa=
+n></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## [1]<span style=3D'mso-spacerun:yes'> 
+</span>20 160</span></span></p>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>After the downloading the data=
+, the
+training data was explored in excel by opening the csv file. Upon viewing t=
+he
+file the below was found 1. There are many columns that do not have data. t=
+his
+needs to be cleaned 2. The first 7 columns are demographics and can be excl=
+uded
+from model building and prediction 3. Training dataset has 19622. This need=
+s to
+be split into 2 datasets one for building the model and another for cross
+validation and determing the accuracy and out-of-sample cross validation er=
+ror</span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>The below code does the first 2 a=
+ctions
+in the above 3 points</span></p>
+
+<h3><a name=3D"_Toc534223470"></a><a
+name=3Dclean-data-and-create-sub-training-and-s></a><span style=3D'mso-book=
+mark:
+_Toc534223470'><span lang=3DEN-US>Clean Data and create sub training and su=
+b test
+samples</span></span></h3>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>#exclude first 7 columns</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pml_tr=
+ain
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DNormalTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>pml_train=
+[,</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>c</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span class=3DDecValTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>8</span><=
+/span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>:</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>ncol</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(pml_train))]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pml_te=
+st
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DNormalTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>pml_test[=
+,</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>c</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span class=3DDecValTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>8</span><=
+/span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>:</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>ncol</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(pml_test))]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>#exclude near zero variance columns</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>nzcols=
+ &lt;-</span></span><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>nearZeroVar</span></sp=
+an><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(pml_train)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pml_tr=
+ain
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DNormalTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>pml_train=
+[,</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>-</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>nzcols]</span></span><span lang=3DEN-US><=
+br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>nzcols=
+ &lt;-</span></span><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>nearZeroVar</span></sp=
+an><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(pml_test)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pml_te=
+st
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DNormalTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>pml_test[=
+,</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>-</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>nzcols]</span></span><span lang=3DEN-US><=
+br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># remove columns that have only NA values in them</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pml_train&lt;-</span></span><span class=3DStringTok><span lang=3DEN-=
+US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>pml_train[,</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>colSums</span></span><=
+span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>is.na</span></span><sp=
+an
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(pml_train))</span></span><span class=3DOperatorTok><span lang=3DEN=
+-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>=3D=3D</span></span><s=
+pan
+class=3DDecValTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>0</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pml_test&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>pml_test[,</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>colSums</span></span><=
+span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>is.na</span></span><sp=
+an
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(pml_test))</span></span><span class=3DOperatorTok><span lang=3DEN-=
+US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>=3D=3D</span></span><s=
+pan
+class=3DDecValTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>0</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>table</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_train</span></spa=
+n><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe)</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## </span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>    </span>A<=
+span
+style=3D'mso-spacerun:yes'>    </span>B<span style=3D'mso-spacerun:yes'>   
+</span>C<span style=3D'mso-spacerun:yes'>    </span>D<span
+style=3D'mso-spacerun:yes'>    </span>E </span></span><span lang=3DEN-US><b=
+r>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## 5580 3797 3422 3216 3607</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># create sub samples of training data set for model building and cr=
+oss
+validation</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>intrain
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>createDat=
+aPartition</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>y=3D</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>pml_train</span></span><span class=3DOperatorTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>$</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>classe,</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>p=3D</span></span><span
+class=3DFloatTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font=
+-size:
+12.0pt'>0.7</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>,</span></span><span
+class=3DDataTypeTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>list=3D</span></span><span class=3DOtherTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>FALSE</span></span><sp=
+an
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pml_su=
+btrain
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>pml_train[intrain,]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pml_su=
+btest
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DNormalTok><s=
+pan
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>pml_train=
+[</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>-</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>intrain,]</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>table</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain</span></=
+span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe)</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## </span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>    </span>A<=
+span
+style=3D'mso-spacerun:yes'>    </span>B<span style=3D'mso-spacerun:yes'>   
+</span>C<span style=3D'mso-spacerun:yes'>    </span>D<span
+style=3D'mso-spacerun:yes'>    </span>E </span></span><span lang=3DEN-US><b=
+r>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## 3906 2658 2396 2252 2525</span></span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>table</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtest</span></s=
+pan><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe)</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## </span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>    </span>A<=
+span
+style=3D'mso-spacerun:yes'>    </span>B<span style=3D'mso-spacerun:yes'>   
+</span>C<span style=3D'mso-spacerun:yes'>    </span>D<span
+style=3D'mso-spacerun:yes'>    </span>E </span></span><span lang=3DEN-US><b=
+r>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## 1674 1139 1026<span style=3D'mso-spacerun:yes=
+'> 
+</span>964 1082</span></span></p>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>From the above it is clear tha=
+t the
+data is not skewed towards a particular value of classe though the number of
+observations for A is the highest</span></p>
+
+<h2><a name=3D"_Toc534223471"></a><a name=3Dbuild-and-select-model></a><span
+style=3D'mso-bookmark:_Toc534223471'><span lang=3DEN-US>Build and Select Mo=
+del</span></span></h2>
+
+<h3><a name=3D"_Toc534223472"></a><a name=3Dbuild-model></a><span style=3D'=
+mso-bookmark:
+_Toc534223472'><span lang=3DEN-US>Build Model</span></span></h3>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>The variable to be predicted is
+“classe”. From the data it is clear that this is a categorical variable and
+hence, a classification type of model needs to be built.</span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>We can look at multiple models so=
+me that
+are known for speed and some known for accuracy. The below model types will=
+ be
+used and the best among them will be chosen</span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>Speed based model types: - Decisi=
+on tree
+(rpart) and Boosted Logistic Regression (LogitBoost)</span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>Model Types known for accuracy -
+RandomForest (rf) - Gradient Boosting Tree (gbm) - Kernel Support Vector
+Machine (svm)</span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>Below code builds the model and d=
+isplays
+the accuracy of the prediction of each model vis-a-vis the sub training data
+sample (sample on which the model was built) and sub testing data sample</s=
+pan></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>set.seed</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(</span></span><span
+class=3DDecValTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>3523</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># High Speed relatively low accuracy models</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>mod_rp=
+art
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>rpart</sp=
+an></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(classe</span></span><span class=3DOperatorTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>~</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>.,</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>data=3D</span></span><=
+span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>pml_subtrain,</span></span><span class=3DDataTypeTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>method=3D</span></span=
+><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>&quot;class&quot;</span></span><span class=3DNormalTok><span lang=
+=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pml_subtrain_data &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>pml_subtrain[,</span></span><span class=3DOperatorTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>-</span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>ncol</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain)]</span>=
+</span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pml_subtrain_label &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>pml_subtrain[,</span></span><span class=3DKeywordTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>ncol</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(pml_subtrain)]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>mod_boost_logreg &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>LogitBoost</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain_data,pml=
+_subtrain_label)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>#mod_boost_logreg &lt;- train(classe~.,data=3Dpml_subtrain,method=
+=3D&quot;LogitBoost&quot;)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># Low speed high accuracy models</span></span><span lang=3DEN-US><b=
+r>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>mod_rf=
+ &lt;-</span></span><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>train</span></span><sp=
+an
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(classe</span></span><span class=3DOperatorTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>~</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>.,</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>data =3D</span></span>=
+<span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> pml_subtrain,</span></span><span class=3DDataTypeTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>method=3D</span></span=
+><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>&quot;rf&quot;</span></span><span class=3DNormalTok><span lang=3DEN=
+-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>mod_gbm
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>train</sp=
+an></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(classe</span></span><span class=3DOperatorTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>~</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>.,</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>data =3D</span></span>=
+<span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> pml_subtrain,</span></span><span class=3DDataTypeTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>method=3D</span></span=
+><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>&quot;gbm&quot;</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>,</span></span><span
+class=3DDataTypeTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>verbose=3D</span></span><span class=3DOtherTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>FALSE</span></span><sp=
+an
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>mod_kernelsvm &lt;-</span></span><span class=3DStringTok><span lang=
+=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>train</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(classe</span></span><=
+span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>~</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>.,</span></span><span class=3DDataTypeTok=
+><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>data =3D<=
+/span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> pml_subtrain,</span></span><span class=3DDataTypeTok><span lang=3D=
+EN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>method=3D</span></span=
+><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>&quot;svmLinear3&quot;</span></span><span class=3DNormalTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>)</span><=
+/span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># predict the training data set values using each model</span></spa=
+n><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_rpart_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_rpart,pml_subtrai=
+n,</span></span><span
+class=3DDataTypeTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>type=3D</span></span><span class=3DStringTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>&quot;class&quot;</spa=
+n></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_logreg_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_boost_logreg,pml_=
+subtrain)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_rf_train &lt;-</span></span><span class=3DStringTok><span lang=
+=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_rf,pml_subtrain)<=
+/span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_gbm_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_gbm,pml_subtrain)=
+</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_kernelsvm_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_kernelsvm,pml_sub=
+train)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># predict the validation data set values using each model</span></s=
+pan><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_rpart_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_rpart,pml_subtest=
+,</span></span><span
+class=3DDataTypeTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>type=3D</span></span><span class=3DStringTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>&quot;class&quot;</spa=
+n></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_logreg_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_boost_logreg,pml_=
+subtest)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pred_r=
+f_test
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>predict</=
+span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(mod_rf,pml_subtest)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_gbm_test &lt;-</span></span><span class=3DStringTok><span lang=
+=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_gbm,pml_subtest)<=
+/span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_kernelsvm_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_kernelsvm,pml_sub=
+test)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># Compute the accuracy of the models on training data set</span></s=
+pan><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_rpart_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain</span></=
+span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_rpart_train)</span></span><sp=
+an
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_logreg_train &lt;-</span></span><span class=3DStringTok><sp=
+an
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain</span></=
+span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_logreg_train)</span></span><s=
+pan
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_rf_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain</span></=
+span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_rf_train)</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_gbm_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain</span></=
+span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_gbm_train)</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_svm_train &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtrain</span></=
+span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_kernelsvm_train)</span></span=
+><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'># Compute the accuracy of the models on validation data set</span><=
+/span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_rpart_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtest</span></s=
+pan><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_rpart_test)</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_logreg_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtest</span></s=
+pan><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_logreg_test)</span></span><sp=
+an
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_rf_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtest</span></s=
+pan><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_rf_test)</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_gbm_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtest</span></s=
+pan><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_gbm_test)</span></span><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>accuracy_svm_test &lt;-</span></span><span class=3DStringTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span><=
+/span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtest</span></s=
+pan><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>classe,pred_kernelsvm_test)</span></span>=
+<span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>overall[</span></span><span class=3DDecVa=
+lTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>1</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>]<span style=3D'mso-spacerun:yes'>  </span></span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DCommentTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>#Create and display accuracy table</span></span><span lang=3DEN-US>=
+<br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>accura=
+cylist
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>c</span><=
+/span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(accuracy_rpart_train,accuracy_logreg_train,accuracy_rf_train,accur=
+acy_gbm_train,accuracy_svm_train,accuracy_rpart_test,accuracy_logreg_test,a=
+ccuracy_rf_test,accuracy_gbm_test,accuracy_svm_test)</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>accura=
+cydf
+&lt;-</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'font=
+-size:
+11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span class=3DKeywordTok><=
+span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>data.fram=
+e</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>matrix</span></span><s=
+pan
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DDataTypeTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>data=3D</span></span><=
+span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>accuracylist,</span></span><span class=3DDataTypeTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>nrow=3D</span></span><=
+span
+class=3DDecValTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>2</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>,</span></span><span class=3DDataTypeTok>=
+<span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>ncol=3D</=
+span></span><span
+class=3DDecValTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>5</span></span><span class=3DNormalTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>,</span></span><span class=3DDataTypeTok>=
+<span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>byrow=3D<=
+/span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>T))</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>colnames</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(accuracydf) &lt;-</sp=
+an></span><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>c</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;rpart&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;boosted.logreg&quot;</span></span><=
+span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;rf&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;gbm&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;svm&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>)</span></span><span lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span></span=
+></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>rownames</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(accuracydf) &lt;-</sp=
+an></span><span
+class=3DStringTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'> </span></span><span class=3DKeywordTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>c</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>(</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;subtrain&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>,</span></span><span class=3DStringTok><span lang=3DEN-US style=3D'=
+font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>&quot;subtest&quot;</span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>)</span></span><span lang=3DEN-US><br>
+<br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>accura=
+cydf</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>##<span
+style=3D'mso-spacerun:yes'>              </span>rpart boosted.logreg<span
+style=3D'mso-spacerun:yes'>        </span>rf<span style=3D'mso-spacerun:yes=
+'>     
+</span>gbm<span style=3D'mso-spacerun:yes'>       </span>svm</span></span><=
+span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## subtrain 0.7390260<span
+style=3D'mso-spacerun:yes'>      </span>0.9320589 1.0000000 0.973939 0.7155=
+128</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## subtest<span style=3D'mso-spacerun:yes'> 
+</span>0.7325404<span style=3D'mso-spacerun:yes'>      </span>0.9136077 0.9=
+913339
+0.957859 0.7131691</span></span></p>
+
+<h3><a name=3D"_Toc534223473"></a><a name=3Dselect-model></a><span
+style=3D'mso-bookmark:_Toc534223473'><span lang=3DEN-US>Select Model</span>=
+</span></h3>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>Based on the accuracy values i=
+t can be
+concluded that random forest is the best model. The accuracies are high for
+both sub training and sub test data sets indicating that there is no
+overfitting of the model</span></p>
+
+<p class=3DMsoBodyText><span lang=3DEN-US>Based on this random forest model=
+ is
+selected. Details of random forest accuracy is given below</span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span=
+></span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>confusionMatrix</span></span><span class=3DNormalTok><span lang=3DE=
+N-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(pml_subtest</span></s=
+pan><span
+class=3DOperatorTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-f=
+ont-size:
+12.0pt'>$</span></span><span class=3DGramE><span class=3DNormalTok><span
+lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>classe,pr=
+ed</span></span></span><span
+class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fon=
+t-size:
+12.0pt'>_rf_test)</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>## Confusion Matrix and Statistics</span>=
+</span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## </span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>          
+</span>Reference</span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Prediction<span style=3D'mso-spacerun:yes'>   
+</span>A<span style=3D'mso-spacerun:yes'>    </span>B<span
+style=3D'mso-spacerun:yes'>    </span>C<span style=3D'mso-spacerun:yes'>   
+</span>D<span style=3D'mso-spacerun:yes'>    </span>E</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>          </s=
+pan>A
+1674<span style=3D'mso-spacerun:yes'>    </span>0<span
+style=3D'mso-spacerun:yes'>    </span>0<span style=3D'mso-spacerun:yes'>   
+</span>0<span style=3D'mso-spacerun:yes'>    </span>0</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>         
+</span>B<span style=3D'mso-spacerun:yes'>    </span>9 1126<span
+style=3D'mso-spacerun:yes'>    </span>4<span style=3D'mso-spacerun:yes'>   
+</span>0<span style=3D'mso-spacerun:yes'>    </span>0</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>         
+</span>C<span style=3D'mso-spacerun:yes'>    </span>0<span
+style=3D'mso-spacerun:yes'>    </span>7 1015<span style=3D'mso-spacerun:yes=
+'>   
+</span>4<span style=3D'mso-spacerun:yes'>    </span>0</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>         
+</span>D<span style=3D'mso-spacerun:yes'>    </span>0<span
+style=3D'mso-spacerun:yes'>    </span>1<span style=3D'mso-spacerun:yes'>  
+</span>17<span style=3D'mso-spacerun:yes'>  </span>944<span
+style=3D'mso-spacerun:yes'>    </span>2</span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>         
+</span>E<span style=3D'mso-spacerun:yes'>    </span>0<span
+style=3D'mso-spacerun:yes'>    </span>1<span style=3D'mso-spacerun:yes'>   
+</span>0<span style=3D'mso-spacerun:yes'>    </span>6 1075</span></span><sp=
+an
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## </span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Overall Statistics</span></span><span lang=3D=
+EN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span
+style=3D'mso-spacerun:yes'>                                           </spa=
+n></span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>             =
+  
+</span>Accuracy : 0.9913<span style=3D'mso-spacerun:yes'>          </span><=
+/span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>             =
+    
+</span>95% CI : (0.9886, 0.9935)</span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>     </span>No
+Information Rate : 0.286<span style=3D'mso-spacerun:yes'>           </span>=
+</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>     </span>P=
+-Value
+[Acc &gt; NIR] : &lt; 2.2e-16<span style=3D'mso-spacerun:yes'>       </span=
+></span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span
+style=3D'mso-spacerun:yes'>                                           </spa=
+n></span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>             =
+     
+</span>Kappa : 0.989<span style=3D'mso-spacerun:yes'>           </span></sp=
+an></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>  </span>Mcne=
+mar's
+Test P-Value : NA<span style=3D'mso-spacerun:yes'>              </span></sp=
+an></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## </span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Statistics by Class:</span></span><span
+lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## </span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>##<span
+style=3D'mso-spacerun:yes'>                      </span>Class: A Class: B C=
+lass: C
+Class: D Class: E</span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Sensitivity<span
+style=3D'mso-spacerun:yes'>            </span>0.9947<span
+style=3D'mso-spacerun:yes'>   </span>0.9921<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.9797<span style=3D'mso-spacerun:yes'>   </span>0.9895<span
+style=3D'mso-spacerun:yes'>   </span>0.9981</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Specificity<span
+style=3D'mso-spacerun:yes'>            </span>1.0000<span
+style=3D'mso-spacerun:yes'>   </span>0.9973<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.9977<span style=3D'mso-spacerun:yes'>   </span>0.9959<span
+style=3D'mso-spacerun:yes'>   </span>0.9985</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Pos Pred Value<span
+style=3D'mso-spacerun:yes'>         </span>1.0000<span
+style=3D'mso-spacerun:yes'>   </span>0.9886<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.9893<span style=3D'mso-spacerun:yes'>   </span>0.9793<span
+style=3D'mso-spacerun:yes'>   </span>0.9935</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Neg Pred Value<span
+style=3D'mso-spacerun:yes'>         </span>0.9979<span
+style=3D'mso-spacerun:yes'>   </span>0.9981<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.9957<span style=3D'mso-spacerun:yes'>   </span>0.9980<span
+style=3D'mso-spacerun:yes'>   </span>0.9996</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Prevalence<span
+style=3D'mso-spacerun:yes'>             </span>0.2860<span
+style=3D'mso-spacerun:yes'>   </span>0.1929<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.1760<span style=3D'mso-spacerun:yes'>   </span>0.1621<span
+style=3D'mso-spacerun:yes'>   </span>0.1830</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Detection Rate<span
+style=3D'mso-spacerun:yes'>         </span>0.2845<span
+style=3D'mso-spacerun:yes'>   </span>0.1913<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.1725<span style=3D'mso-spacerun:yes'>   </span>0.1604<span
+style=3D'mso-spacerun:yes'>   </span>0.1827</span></span><span lang=3DEN-US=
+><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Detection Prevalence<span
+style=3D'mso-spacerun:yes'>   </span>0.2845<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.1935<span style=3D'mso-spacerun:yes'>   </span>0.1743<span
+style=3D'mso-spacerun:yes'>   </span>0.1638<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.1839</span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Balanced Accuracy<span
+style=3D'mso-spacerun:yes'>      </span>0.9973<span style=3D'mso-spacerun:y=
+es'>  
+</span>0.9947<span style=3D'mso-spacerun:yes'>   </span>0.9887<span
+style=3D'mso-spacerun:yes'>   </span>0.9927<span style=3D'mso-spacerun:yes'=
+>  
+</span>0.9983</span></span></p>
+
+<p class=3DFirstParagraph><a name=3D"_Toc534223474"></a><a
+name=3Dtest-set-prediction></a><span style=3D'mso-bookmark:_Toc534223474'><=
+span
+lang=3DEN-US><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=3DMsoBodyText><span style=3D'mso-bookmark:_Toc534223474'><span lan=
+g=3DEN-US>The
+accuracy of random forest is 99.13% and the expected out-of-sample error is
+0.87% or 0.0087 (1-accuracy) and the 95% confidence interval is 0.9886 - 0.=
+9935</span></span></p>
+
+<h1><span style=3D'mso-bookmark:_Toc534223474'><span lang=3DEN-US>Test Set
+Prediction</span></span></h1>
+
+<p class=3DFirstParagraph><span lang=3DEN-US>Let’s now predict the test set=
+ values
+using the selected model</span></p>
+
+<p class=3DSourceCode><span class=3DNormalTok><span lang=3DEN-US style=3D'f=
+ont-size:
+11.0pt;mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'> 
+</span>pred_test &lt;-</span></span><span class=3DStringTok><span lang=3DEN=
+-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'> </span></span><span
+class=3DKeywordTok><span lang=3DEN-US style=3D'font-size:11.0pt;mso-bidi-fo=
+nt-size:
+12.0pt'>predict</span></span><span class=3DNormalTok><span lang=3DEN-US
+style=3D'font-size:11.0pt;mso-bidi-font-size:12.0pt'>(mod_rf,pml_test)</spa=
+n></span><span
+lang=3DEN-US><br>
+</span><span class=3DNormalTok><span lang=3DEN-US style=3D'font-size:11.0pt;
+mso-bidi-font-size:12.0pt'><span style=3D'mso-spacerun:yes'>  </span>pred_t=
+est</span></span></p>
+
+<p class=3DSourceCode><span class=3DVerbatimChar><span lang=3DEN-US style=
+=3D'font-size:
+11.0pt;mso-bidi-font-size:12.0pt'>##<span style=3D'mso-spacerun:yes'>  </sp=
+an>[1]
+B A B A A E D B A A B C B A E E A B B B</span></span><span lang=3DEN-US><br>
+</span><span class=3DVerbatimChar><span lang=3DEN-US style=3D'font-size:11.=
+0pt;
+mso-bidi-font-size:12.0pt'>## Levels: A B C D E</span></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D4A2E2.16028700
+Content-Location: file:///C:/EB26A0D4/Course8PracticalMachineLearningProject_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQCd
+XIu+EAcAAIcdAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZT28bRRS/I/EdRntvEydOmkR1
+qtixCbRpo9gt6nG8O/ZOM7uzmhkn8Q21RyQkREEcqMSNAwIqtRKX8mkCRVCkfgXezOyud+Jx45QA
+FTSH1jv7e2/e+70/82evXjtOGDokQlKeNoLa5cUAkTTkEU2HjeB2r3NpLUBS4TTCjKekEYyJDK5t
+vvvOVbyhYpIQBPKp3MCNIFYq21hYkCEMY3mZZySFdwMuEqzgUQwXIoGPQG/CFpYWF1cXEkzTAKU4
+AbW3BgMaEtTTKoPNQnmbwWOqpB4Imehq1cSRMNjooKYRcixbTKBDzBoBzBPxox45VgFiWCp40QgW
+zV+wsHl1AW/kQkzNkK3IdcxfLpcLRAdLZk4x7JeT1jr19SvbpX4DYGoa1263W+1aqc8AcBiCp9aW
+qs56Z63WLHRWQPbntO7W4spi3cVX9C9P2bzebDZX1nNbrFIDsj/rU/i1xdX61pKDNyCLX5nC15tb
+rdaqgzcgi1+dwneurK/WXbwBxYymB1NoHdBOJ9deQgac7XjhawBfW8zhExRkQ5ldeooBT9WsXEvw
+PS46ANBAhhVNkRpnZIBDyOIWZrQvqJ4AbxBceWOHQjk1pOdCMhQ0U43ggwxDRUz0vXz23ctnT9DJ
+/acn9388efDg5P4PVpEjtYPTYVXqxTef/vHoI/T7k69fPPzcj5dV/C/ff/zzT5/5gVA+E3Oef/H4
+16ePn3/5yW/fPvTAtwTuV+E9mhCJbpIjtM8TcMyw4lpO+uJ8Er0Y06rEVjqUOMV6Fo/+tood9M0x
+ZtiDaxKXwTsC2ocP+N7onmNwNxYjlcfb8ex6nDjAXc5ZkwsvC9f1XBWae6N06J9cjKq4fYwPfXO3
+cOrEtz3KoG9Sn8pWTBwz9xhOFR6SlCik3/EDQjx83aXU4XWXhoJLPlDoLkVNTL2U9GjfyaaJ0A5N
+IC5jn4EQb4eb3TuoyZnP621y6CKhKjDzGN8jzKHxPTxSOPGp7OGEVQm/gVXsM7I7FmEV15YKIj0k
+jKN2RKT0ydwS4G8l6NehdfjDvsvGiYsUih74dN7AnFeR2/ygFeMk82G7NI2r2PflAaQoRntc+eC7
+3K0Q/QxxwOnMcN+hxAn32d3gNh06Jk0SRL8ZCR1LaNVOB05o+qp2nEA3zt25uHYMDfD5V488mfWm
+NuItIMFXCTun2u8s3Omm2+Iiom9+z93Go3SPQJpPLzxvW+7blhv851vurHqet9FOeiu0Xb29sZti
+s0VOZu6QB5SxrhozckOaTbKEdSLqwKCWM6dDUp6Yshh+5n3dwQ0FNjJIcPUhVXE3xhlssGuBVjKU
+ueqhRBmXcLAzw17dGg+bdGWPhSv6wGD7gcRql0d2eFkPF+eCUo1ZbYbm8FlMtKwVzDvZ8pVcKbj9
+OpPVtFFzz1YzpplW58xWugwxnHYNBks2YQOCYNsCLK/C+VxPDQcTzEikebdrbxEWE4W/J0S519aR
+GEfEhsgZrrBZM7ErUshcEEBKeUJ3PjZL1oC0s40waTE7f+YkuVAwIVmX3alqYmm1tliKjhrB+srS
+SoBCnDWCARxJ4WeSQdCk3rJhNoR7nVAJm7Vn1qIp0onH6/6sqsEtw4yCcco4E1JtYxnbGJpXeahY
+qmey9i+t1HWyXYwDNlFfw4rlNUiRf80KCLUbWjIYkFBVg10Z0dzZx7wT8pEiohtHR6jPRmIfQ/iB
+U+1PRCXcLJiC1g9wDabZNq/c3pp3murlk8HZccyyGOfdUl+jFBVn4abeShvMU8U88M1ru3Hu/K7o
+ir8oV6pp/D9zRS8HcNBfjnQEQriFFRjpem0EXKiYQxfKYhp2BKz7pndAtsBVKrwG8uEu2PwvyKH+
+39ac1WHKGs5rap8OkaCwnKhYELIHbclk3xnKavnSY1WyXJHJqIq5MrNm98khYT3dA1d1Dw5QDKlu
+ukneBgzudP65z3kF9Yd6j1KtN6eHlEunrYF/euNiixmcOrWX0Plb8F+a6Fn9rLwRL9bIqiP6xWSX
+VC+qwln81tfzqV7ThHkW4MpaazvWlMdLK4VxEMVpj2Gw3M9kcF2D9D+w/lERMvthQS+oPb4PvRXB
+dwLLH4KsvqS7GmSQbpD2Vx/2PXbQJpNWZanNdz6atWKxvuCNajnvKbK1ZfPE+5xkl5sodzqnFi+S
+7Jxhh2s7NpNqiOzpEoWhQXEOMYExX6SqH414/x4Eehuu50fMfkaSGTyZOsj2hMmuPo/G+U8m7YJr
+s06fYTSSpftkgGh0XJw/SiZsCdlPGcUW2aC1mE60UnDZd2hwBXO8FrWrZSm8dLZwKWFmhpZdCpsb
+Mp8C+JCVN259tAO8bbLWa11cBVMs/SuUzWG8nzLvyWdeyuxB8ZWBeg3K1PGrKcuZAvKmEw8+RQoM
+R5Ou6b+w6NhMNym7+ScAAAD//wMAUEsDBBQABgAIAAAAIQAN0ZCftgAAABsBAAAnAAAAdGhlbWUv
+dGhlbWUvX3JlbHMvdGhlbWVNYW5hZ2VyLnhtbC5yZWxzhI9NCsIwFIT3gncIb2/TuhCRJt2I0K3U
+A4TkNQ02PyRR7O0NriwILodhvplpu5edyRNjMt4xaKoaCDrplXGawW247I5AUhZOidk7ZLBggo5v
+N+0VZ5FLKE0mJFIoLjGYcg4nSpOc0IpU+YCuOKOPVuQio6ZByLvQSPd1faDxmwF8xSS9YhB71QAZ
+llCa/7P9OBqJZy8fFl3+UUFz2YUFKKLGzOAjm6pMBMpburrE3wAAAP//AwBQSwECLQAUAAYACAAA
+ACEA6d4Pv/8AAAAcAgAAEwAAAAAAAAAAAAAAAAAAAAAAW0NvbnRlbnRfVHlwZXNdLnhtbFBLAQIt
+ABQABgAIAAAAIQCl1qfnwAAAADYBAAALAAAAAAAAAAAAAAAAADABAABfcmVscy8ucmVsc1BLAQIt
+ABQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAAAAAAAAAAAAAABkCAAB0aGVtZS90aGVtZS90aGVt
+ZU1hbmFnZXIueG1sUEsBAi0AFAAGAAgAAAAhAJ1ci74QBwAAhx0AABYAAAAAAAAAAAAAAAAA1gIA
+AHRoZW1lL3RoZW1lL3RoZW1lMS54bWxQSwECLQAUAAYACAAAACEADdGQn7YAAAAbAQAAJwAAAAAA
+AAAAAAAAAAAaCgAAdGhlbWUvdGhlbWUvX3JlbHMvdGhlbWVNYW5hZ2VyLnhtbC5yZWxzUEsFBgAA
+AAAFAAUAXQEAABULAAAAAA==
+
+------=_NextPart_01D4A2E2.16028700
+Content-Location: file:///C:/EB26A0D4/Course8PracticalMachineLearningProject_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D4A2E2.16028700
+Content-Location: file:///C:/EB26A0D4/Course8PracticalMachineLearningProject_files/header.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link id=3DMain-File rel=3DMain-File
+href=3D"../Course8PracticalMachineLearningProject.htm">
+<![if IE]>
+<base
+href=3D"file:///C:/EB26A0D4/Course8PracticalMachineLearningProject_files/he=
+ader.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+</head>
+
+<body lang=3DEN-IN link=3D"#4F81BD" vlink=3Dpurple>
+
+<div style=3D'mso-element:footnote-separator' id=3Dfs>
+
+<p class=3DMsoNormal><span lang=3DEN-US><span style=3D'mso-special-characte=
+r:footnote-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></span></p>
+
+</div>
+
+<div style=3D'mso-element:footnote-continuation-separator' id=3Dfcs>
+
+<p class=3DMsoNormal><span lang=3DEN-US><span style=3D'mso-special-characte=
+r:footnote-continuation-separator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-separator' id=3Des>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span
+lang=3DEN-US><span style=3D'mso-special-character:footnote-separator'><![if=
+ !supportFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-continuation-separator' id=3Decs>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span
+lang=3DEN-US><span style=3D'mso-special-character:footnote-continuation-sep=
+arator'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D4A2E2.16028700
+Content-Location: file:///C:/EB26A0D4/Course8PracticalMachineLearningProject_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Course8PracticalMachineLearningProject.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"header.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D4A2E2.16028700--
