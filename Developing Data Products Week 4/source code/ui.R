@@ -154,7 +154,7 @@ shinyUI(
         a(href = "https://www.coursera.org/learn/data-products", "Developing Data Products course from Coursera")
       ),
       
-      p(a(href = "https://github.com/laplata2003/data-products-week-4-project",
+      p(a(href = "https://github.com/suresh-bk/datasciencecoursera/tree/master/Developing%20Data%20Products%20Week%204",
           "Click here")," to view the source code of this application - in GitHub"
       )
       
