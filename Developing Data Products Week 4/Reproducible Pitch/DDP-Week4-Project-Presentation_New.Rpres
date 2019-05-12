@@ -1,0 +1,49 @@
+Developing Data Products - Week4 Project Presentation
+========================================================
+author: Suresh B K
+date: May 12, 2019
+autosize: true
+
+Introduction
+========================================================
+### Project Objective
+The objective of this project is to develop an interactive shiny application with inputs from the user and produce an output based on the inputs
+
+### Application Objective
+The application aims to predict the fuel consumption of a car (MPG - miles per gallon) using pre-computed prediction model 
+
+The model was built using the data for 32 automobiles (1973-74 models)  published in the 1974 Motor Trend US magazine. The data comprises of fuel consumption and 10 parameters of automobile design. The description of the data is available  [at this link](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html)
+
+
+About the prediction model
+========================================================
+The application uses the best fit liner regression model to predict fuel consumption using the six most influencing parameters (and not all parameters).
+
+The parameters used to predict MPG are
+
+- The number cylinders in the car
+- The power of the car in hp
+- The weight of the car in 1000lbs
+- The engine type : V-shape or in-line
+- The transmission type : automatic or manual
+- The number of carburetors in the engine
+
+About the application
+========================================================
+- The application uses different shiny form inputs like slider, selection box and radio buttons to enable user to enter the desired values for the influencing parameters
+
+- The output i.e., the MPG predicted by the model is displayed once the user clicks the "Go" button
+
+- In addition, the application displays charts depicting how each parameter influences the fuel consumption
+
+**Application link :** [click Here](https://sureshbk.shinyapps.io/Coursera8-DDP-Project/) to run the application
+
+**Source code link :** [click here](https://github.com/suresh-bk/datasciencecoursera/tree/master/Developing%20Data%20Products%20Week%204) to view the source code of the application
+
+A sample screen shot of the application
+==========================================================
+A sample screen shot of the application is embedded below for reference
+ 
+Thank you and hope you find the application useful for prediction
+
+![](C:/Users/sushmak/Desktop/ShinyApp_New.PNG)
